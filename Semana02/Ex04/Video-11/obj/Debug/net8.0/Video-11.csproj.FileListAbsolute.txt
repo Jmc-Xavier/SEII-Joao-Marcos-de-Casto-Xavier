@@ -1,0 +1,5 @@
+/home/jmcxavier/Github/Semana02/Ex04/Video-11/obj/Debug/net8.0/Video-11.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana02/Ex04/Video-11/obj/Debug/net8.0/Video-11.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana02/Ex04/Video-11/obj/Debug/net8.0/Video-11.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana02/Ex04/Video-11/obj/Debug/net8.0/Video-11.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana02/Ex04/Video-11/obj/Debug/net8.0/Video-11.sourcelink.json
