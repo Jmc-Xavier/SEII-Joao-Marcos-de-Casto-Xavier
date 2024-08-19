@@ -1,0 +1,5 @@
+/home/jmcxavier/Github/Semana03/Exercicio-02/Ex01/obj/Debug/net8.0/Ex01.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana03/Exercicio-02/Ex01/obj/Debug/net8.0/Ex01.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana03/Exercicio-02/Ex01/obj/Debug/net8.0/Ex01.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana03/Exercicio-02/Ex01/obj/Debug/net8.0/Ex01.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana03/Exercicio-02/Ex01/obj/Debug/net8.0/Ex01.sourcelink.json
