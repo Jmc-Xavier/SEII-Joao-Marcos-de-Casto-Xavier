@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/bin/Debug/net8.0/12Estatico
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/bin/Debug/net8.0/12Estatico.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/bin/Debug/net8.0/12Estatico.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/bin/Debug/net8.0/12Estatico.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/bin/Debug/net8.0/12Estatico.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/refint/12Estatico.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/12Estatico.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/12Estatico/obj/Debug/net8.0/ref/12Estatico.dll

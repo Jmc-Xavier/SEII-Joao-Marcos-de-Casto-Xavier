@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/bin/Debug/net8.0/03ExercícioEscolar
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/bin/Debug/net8.0/03ExercícioEscolar.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/bin/Debug/net8.0/03ExercícioEscolar.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/bin/Debug/net8.0/03ExercícioEscolar.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/bin/Debug/net8.0/03ExercícioEscolar.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/refint/03ExercícioEscolar.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/03ExercícioEscolar.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/03ExercícioEscolar/obj/Debug/net8.0/ref/03ExercícioEscolar.dll

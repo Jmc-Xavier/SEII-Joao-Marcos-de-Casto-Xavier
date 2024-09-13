@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/bin/Debug/net8.0/02Métodos
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/bin/Debug/net8.0/02Métodos.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/bin/Debug/net8.0/02Métodos.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/bin/Debug/net8.0/02Métodos.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/bin/Debug/net8.0/02Métodos.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/refint/02Métodos.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/02Métodos.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/02Métodos/obj/Debug/net8.0/ref/02Métodos.dll

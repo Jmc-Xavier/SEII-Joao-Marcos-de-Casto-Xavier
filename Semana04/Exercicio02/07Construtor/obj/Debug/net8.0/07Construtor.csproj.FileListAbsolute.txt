@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/bin/Debug/net8.0/07Construtor
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/bin/Debug/net8.0/07Construtor.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/bin/Debug/net8.0/07Construtor.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/bin/Debug/net8.0/07Construtor.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/bin/Debug/net8.0/07Construtor.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/refint/07Construtor.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/07Construtor.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/07Construtor/obj/Debug/net8.0/ref/07Construtor.dll

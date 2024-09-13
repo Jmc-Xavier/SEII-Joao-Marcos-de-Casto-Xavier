@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/bin/Debug/net8.0/04ExercicioIMC.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/refint/04ExercicioIMC.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/04ExercicioIMC.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/04ExercicioIMC/obj/Debug/net8.0/ref/04ExercicioIMC.dll

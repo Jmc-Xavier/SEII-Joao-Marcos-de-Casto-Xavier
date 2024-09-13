@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/bin/Debug/net8.0/10Herança
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/bin/Debug/net8.0/10Herança.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/bin/Debug/net8.0/10Herança.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/bin/Debug/net8.0/10Herança.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/bin/Debug/net8.0/10Herança.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/refint/10Herança.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/10Herança.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/10Herança/obj/Debug/net8.0/ref/10Herança.dll

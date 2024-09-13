@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/bin/Debug/net8.0/14Interface
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/bin/Debug/net8.0/14Interface.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/bin/Debug/net8.0/14Interface.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/bin/Debug/net8.0/14Interface.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/bin/Debug/net8.0/14Interface.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/refint/14Interface.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/14Interface.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/14Interface/obj/Debug/net8.0/ref/14Interface.dll

@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/bin/Debug/net8.0/01Conceitos
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/bin/Debug/net8.0/01Conceitos.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/bin/Debug/net8.0/01Conceitos.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/bin/Debug/net8.0/01Conceitos.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/bin/Debug/net8.0/01Conceitos.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/refint/01Conceitos.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/01Conceitos.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/01Conceitos/obj/Debug/net8.0/ref/01Conceitos.dll

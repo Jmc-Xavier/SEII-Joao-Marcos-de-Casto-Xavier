@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/bin/Debug/net8.0/06Encapsulamento.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/refint/06Encapsulamento.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/06Encapsulamento.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/06Encapsulamento/obj/Debug/net8.0/ref/06Encapsulamento.dll

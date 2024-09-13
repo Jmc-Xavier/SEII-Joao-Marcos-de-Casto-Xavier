@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/bin/Debug/net8.0/11Polimorfismo.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/refint/11Polimorfismo.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/11Polimorfismo.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/11Polimorfismo/obj/Debug/net8.0/ref/11Polimorfismo.dll

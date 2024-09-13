@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/bin/Debug/net8.0/09This
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/bin/Debug/net8.0/09This.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/bin/Debug/net8.0/09This.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/bin/Debug/net8.0/09This.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/bin/Debug/net8.0/09This.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/refint/09This.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/09This.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/09This/obj/Debug/net8.0/ref/09This.dll

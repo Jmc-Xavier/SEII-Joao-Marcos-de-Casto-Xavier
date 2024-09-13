@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.sourcelink.json
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/bin/Debug/net8.0/13Abstração
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/bin/Debug/net8.0/13Abstração.deps.json
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/bin/Debug/net8.0/13Abstração.runtimeconfig.json
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/bin/Debug/net8.0/13Abstração.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/bin/Debug/net8.0/13Abstração.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/refint/13Abstração.dll
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.pdb
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/13Abstração.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana04/Exercicio02/13Abstração/obj/Debug/net8.0/ref/13Abstração.dll
