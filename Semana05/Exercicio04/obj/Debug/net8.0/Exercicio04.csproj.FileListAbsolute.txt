@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.sourcelink.json
+/home/jmcxavier/Github/Semana05/Exercicio04/bin/Debug/net8.0/Exercicio04
+/home/jmcxavier/Github/Semana05/Exercicio04/bin/Debug/net8.0/Exercicio04.deps.json
+/home/jmcxavier/Github/Semana05/Exercicio04/bin/Debug/net8.0/Exercicio04.runtimeconfig.json
+/home/jmcxavier/Github/Semana05/Exercicio04/bin/Debug/net8.0/Exercicio04.dll
+/home/jmcxavier/Github/Semana05/Exercicio04/bin/Debug/net8.0/Exercicio04.pdb
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.dll
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/refint/Exercicio04.dll
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.pdb
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/Exercicio04.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana05/Exercicio04/obj/Debug/net8.0/ref/Exercicio04.dll

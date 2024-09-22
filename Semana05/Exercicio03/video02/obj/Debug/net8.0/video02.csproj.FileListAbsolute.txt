@@ -1,0 +1,15 @@
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/bin/Debug/net8.0/video02
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/bin/Debug/net8.0/video02.deps.json
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/bin/Debug/net8.0/video02.runtimeconfig.json
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/bin/Debug/net8.0/video02.dll
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/bin/Debug/net8.0/video02.pdb
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.AssemblyInfoInputs.cache
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.AssemblyInfo.cs
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.csproj.CoreCompileInputs.cache
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.sourcelink.json
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.dll
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/refint/video02.dll
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.pdb
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/video02.genruntimeconfig.cache
+/home/jmcxavier/Github/Semana05/Exercicio03/video02/obj/Debug/net8.0/ref/video02.dll
